@@ -65,8 +65,8 @@ Next September (2026), I will join the **Master's program in Databases and Artif
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbderraoufMenasra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderraoufMenasra&layout=compact&theme=radical)
+![GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=AbderraoufMenasra)
+![Top Languages](https://githubreadmestatsfast.vercel.app/api/top-langs?username=AbderraoufMenasra&layout=compact)
 
 ---
 
