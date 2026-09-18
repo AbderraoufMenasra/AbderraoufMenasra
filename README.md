@@ -6,8 +6,7 @@
 
 ## 💫  About Me
 
-I’m currently in my **3rd year of Bachelor's in Computer Science** (Licence 3 Informatique) at **Université Bourgogne Europe** in Dijon, France.  
-Next September (2026), I will join the **Master's program in Databases and Artificial Intelligence (BDIA)**.
+I’m currently in my 1st year of Master’s in Databases and Artificial Intelligence at Université Bourgogne Europe in Dijon, France.
 
 💬 Ask me about data science, machine learning and deep learning
 
@@ -82,5 +81,4 @@ For me, the most exciting part of a project is the moment when messy data starts
 
 ---
 
-Curious, motivated, and focused on building intelligent, data-driven solutions.  
-**Open to work-study opportunities starting September 2026 – let's talk!**
+Curious, motivated, and focused on building intelligent, data-driven solutions.
